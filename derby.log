@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 01 11:36:38 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0192-46b0-172a-00000e1378f0 
+on database directory memory:/home/ttpl-rt-209/Documents/workspace-spring-tool-suite-4-4.25.0.RELEASE/course-api/testdb with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/home/ttpl-rt-209/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_422-8u422-b05-1~20.04-b05
+user.dir=/home/ttpl-rt-209/Documents/workspace-spring-tool-suite-4-4.25.0.RELEASE/course-api
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-122-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

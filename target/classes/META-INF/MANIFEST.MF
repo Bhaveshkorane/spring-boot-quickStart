@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ttpl-rt-209
+Build-Jdk: 21.0.4
+Implementation-Title: bhavesh  korane
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.bk.springbootquickstart
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/course-api/
+Created-By: Maven Integration for Eclipse
+
